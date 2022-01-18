@@ -86,7 +86,7 @@ send2trash==1.8.0
 setuptools==58.0.4
 setuptools-git==1.2
 six==1.16.0
-sqlite==3.37.0
+# sqlite==3.37.0
 tenacity==8.0.1
 termcolor==1.1.0
 terminado==0.12.1
